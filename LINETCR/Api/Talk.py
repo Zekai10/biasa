@@ -21,7 +21,7 @@ class Talk:
   port = 443;
 
   USER AGENT = Line/1.4.17
-  APPNAME = CHROMEOS\t1.4.17\tChrome_OS\t1
+  APPNAME=CHROMEOS\t1.4.17\tChrome_OS\t1
 
   authToken = None
   cert = None
